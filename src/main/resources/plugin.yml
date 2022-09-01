@@ -1,0 +1,5 @@
+name: Caseopening
+version: '${project.version}'
+main: me.moontimer.caseopening.CaseOpening
+authors: [ MoonTimer ]
+description: CaseOpening for ClavyMC
